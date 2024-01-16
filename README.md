@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Nome do Seu Projeto</title>
+
 </head>
 <body>
 
@@ -10,6 +10,10 @@
 <h2>🌌 Sobre o Projeto</h2>
 <p align="center">
     Projeto de sistema focado em ser utilizando para guiar pessoas até links desejados, como redes sociais e documentos em nuvem, o sistema é gratuito, fiz ele em parceria com <a href="https://www.rocketseat.com.br/">RocketSeat</a><br></p> 
+<p>
+    <img alt="baner"
+    src=".github\previw.png"></img>
+</p>
 
 <h2>⚙️ Funcionalidade</h2>
 <ul>
@@ -22,10 +26,6 @@
 <h2>🎨 Design</h2>
 <p>
 Tamanho responsivo, botões intuitivos, sistma de cores Light e Dark, animações ao clicar. 
-</p>
-<p>
-    <img alt="baner"
-    src=".github\previw.png"></img>
 </p>
 
 <h2>🛠️ Construído com</h2>
