@@ -39,7 +39,7 @@ Tamanho responsivo, botões intuitivos, sistma de cores Light e Dark, animaçõe
 
 <h2>📫 Contato</h2>
 <p>Ítalo Xavier - <a href="mailto:italogax13@gmail.com">italogax13@gmail.com</a></p>
-<p>Link do Projeto: <a href="https://github.com/italogax/LinkME">LinkME</a></p>
+<p>Link do Projeto: <a href="https://italogax.github.io/LinkME/">LinkME</a></p>
 
 </body>
 </html>
